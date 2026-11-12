@@ -1,8 +1,3 @@
-This is a very solid start for Day 1. You're thinking about practical things beginners actually run into. I'd make a few corrections for accuracy and readability.
-
-Revised Version
-What is a Variable?
-
 A variable is a placeholder used to store data in a program. Variables make code more reusable, easier to read, and easier to maintain because values can be stored in one location and referenced throughout the program.
 
 Variable Naming Rules
